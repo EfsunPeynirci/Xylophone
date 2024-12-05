@@ -37,9 +37,10 @@ https://user-images.githubusercontent.com/100719856/227773573-db780f64-68e6-44cc
 ---
 
 ## 📂 Folder Structure 📂
-- lib/: Contains the main application file (main.dart).
-- assets/: Contains the animal sound files (sound1.wav to sound7.wav) and images (bird.png, cat.png, etc.).
-- pubspec.yaml: Defines dependencies and assets used in the project.
+- **`lib/`**: Contains the main application file (`main.dart`).
+- **`assets/`**: Contains the animal sound files (`sound1.wav` to `sound7.wav`).
+- **`images/`**: Contains the animal images (`bird.png`, `cat.png`, etc.).
+- **`pubspec.yaml`**: Defines dependencies and assets used in the project.
 
 ---
 
