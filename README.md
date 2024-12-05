@@ -1,4 +1,4 @@
-# Xylophone App 🎶
+# Xylophone App 🎶🐾
 
 The **Xylophone App** is a fun and interactive Flutter project where users can tap on different animal images to hear their corresponding sounds. This project was inspired by **Dr. Angela Yu's The Complete Flutter Development Bootcamp with Dart** course on Udemy, with a creative twist of using animal sounds instead of traditional xylophone notes.
 
