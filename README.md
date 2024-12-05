@@ -22,17 +22,17 @@ This app demonstrates the use of Flutter's widget-based architecture, `audioplay
 
 ---
 
+## Xylophone App with Animal Sounds | Flutter Demo 🎶🐾
+
+https://user-images.githubusercontent.com/100719856/227773573-db780f64-68e6-44cc-87f2-96a7b38e53e3.mp4
+
+---
+
 ## 🎮 Features
 - **Animal Sounds:** Tap on the animals to play their sounds.  
 - **Colorful Interface:** Each animal button is color-coded to make the app visually appealing.  
 - **Responsive Design:** Buttons expand dynamically to fit the screen size.  
 - **Educational:** Helps users, especially kids, learn animal sounds in a fun way.  
-
----
-
-## 📸 Video
-
-https://user-images.githubusercontent.com/100719856/227773573-db780f64-68e6-44cc-87f2-96a7b38e53e3.mp4
 
 ---
 
